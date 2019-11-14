@@ -1,0 +1,2 @@
+Training set downloaded from http://images.cocodataset.org/zips/train2014.zip
+Validation set downloaded from http://images.cocodataset.org/zips/val2014.zip

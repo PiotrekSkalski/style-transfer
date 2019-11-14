@@ -1,2 +1,2 @@
 images/dataset/*
-saved_models/*
+__pycache__/*
